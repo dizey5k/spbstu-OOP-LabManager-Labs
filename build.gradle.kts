@@ -11,6 +11,7 @@ repositories {
     mavenCentral()
 }
 
+//TODO: lab3, lab4, lab5
 sourceSets {
     main {
         java {
