@@ -16,7 +16,7 @@ public class Lab2 implements RunnableLab {
     public Lab2() {
         this.scanner = new Scanner(System.in);
         this.labInfo = new LabInfo(2, "annotation and reflection",
-                "usage of ann and reflec for methods class");
+                "usage of annotation and reflection for methods class");
     }
 
     @Override
