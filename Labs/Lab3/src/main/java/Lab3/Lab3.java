@@ -178,7 +178,7 @@ public class Lab3 implements RunnableLab {
     }
 
     private void showAnimalHierarchy() {
-        System.out.println("\n=== Animal hierarchy (all abstract except Hedgehog) ===");
+        System.out.println("\n=== Animal hierarchy (all abstract except Lynx, Manul, Hedgehog) ===");
         System.out.println("Animal");
         System.out.println("  L__ Chordata");
         System.out.println("        L__ Mammal");
