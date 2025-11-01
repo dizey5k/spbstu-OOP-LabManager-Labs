@@ -15,7 +15,7 @@ repositories {
 sourceSets {
     main {
         java {
-            srcDirs("src/main/java", "Labs/Lab1/src/main/java", "Labs/Lab2/src/main/java")
+            srcDirs("src/main/java", "Labs/Lab1/src/main/java", "Labs/Lab2/src/main/java", "Labs/Lab3/src/main/java")
         }
         resources {
             srcDirs("src/main/resources")
